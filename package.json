@@ -1,0 +1,33 @@
+{
+  "name": "operatorarray-moroccotime",
+  "version": "0.1.4",
+  "description": "operatorarray-moroccotime",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx babel src --out-dir dist"
+  },
+  "keywords": [
+    "react",
+    "operators",
+    "allOperator",
+    "Div",
+    "Sum",
+    "Sub",
+    "moroccoTime",
+    "Multi",
+    "timeArabic",
+    "Pow",
+    "Ciel",
+    "Max",
+    "Min",
+    "Floor"
+  ],
+  "author": "saidelhabhab",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5"
+  }
+}
